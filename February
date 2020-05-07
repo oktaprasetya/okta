@@ -1,0 +1,98 @@
+<style>
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #fecb00;
+  color: white;
+}
+</style>
+
+
+
+<table id="customers">
+  <tbody><tr>
+    <th>Name</th>
+    <th><div style="text-align: center;">
+Status</div>
+</th>
+    <th><div style="text-align: center;">
+University</div>
+</th>
+  </tr>
+  
+  <tr>
+    <td><a href="https://goldengateedu.blogspot.com/2020/05/elizha-zahratul-munawarah.html">Elizha Zahratul Munawarah </a>
+
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/blog-page_29.html">1</a></div>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/undecided.html">Undecided</a></div>
+</td>
+  </tr>  
+  
+  <tr>
+    <td><a href="https://goldengateedu.blogspot.com/2020/05/umu-jamilah.html">Umu Jamilah </a>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/blog-page_29.html">1</a></div>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/undecided.html">Undecided</a></div>
+</td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://goldengateedu.blogspot.com/2020/04/adila-farhah-nursyifa.html">Annasya Ramanda Marwah</a></td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/blog-page_29.html">1</a></div>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/undecided.html">Undecided</a></div>
+</td>
+  </tr>
+  
+  
+  <tr>
+    <td><a href="https://goldengateedu.blogspot.com/2020/04/adila-farhah-nursyifa.html">Adila Farhah Nursyifa</a></td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/blog-page_29.html">1</a></div>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/undecided.html">Undecided</a></div>
+</td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://goldengateedu.blogspot.com/2020/04/maulida-nugraheni.html">Maulida Nugraheni</a></td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/student-progress-2.html">2</a></div>
+</td>
+    <td><div style="text-align: center;">
+<a href="https://goldengateedu.blogspot.com/p/spjain-university.html">SP.Jain University</a><br>
+<a href="https://goldengateedu.blogspot.com/p/sejong-university.html">Sejong University</a></div>
+</td>
+  </tr>
+  
+</tbody></table>
+
+
+
+</div>
